@@ -1,0 +1,12 @@
+{
+  "name": "blendjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "blend": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
